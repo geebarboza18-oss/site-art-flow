@@ -1,0 +1,9 @@
+{
+  "buildCommand": "chmod +x node_modules/.bin/vite && npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "dist",
+  "framework": null,
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
